@@ -7,7 +7,7 @@ any circumstance. Dedicated person with excellent
 communication and interpersonal abilities.Possess
 attractive communication and interpersonal skill.
 Passionate entity towards work.</h3>
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="A beautiful landscape" style="display: block; margin: 0 auto; width: 500px;">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="A beautiful landscape" style="display: block; margin: 4 auto; width: 500px;">
 
 
 
