@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shafin Junayed</h1>
-<h3 align="center">A passionate about Web development, Laravel, VueJs</h3>
+<h3 align="center">Bachelor's degree in Computer Science and
+Engineering. Working knowledge of
+C++,Laravel,VueJs,MySQL,and Python. Can able to
+perform well under stress and make the most of
+any circumstance. Dedicated person with excellent
+communication and interpersonal abilities.Possess
+attractive communication and interpersonal skill.
+Passionate entity towards work.</h3>
 <img align="middle" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="display: block; margin: auto; width: 500px;">
 
 
