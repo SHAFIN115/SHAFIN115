@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shafin Junayed</h1>
 <h3 align="center">A passionate about Web development, Laravel, VueJs</h3>
+<img src="[https://example.com/image.jpg](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" alt="A beautiful landscape">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafin115&label=Profile%20views&color=0e75b6&style=flat" alt="shafin115" /> </p>
 
