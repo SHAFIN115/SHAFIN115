@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shafin Junayed</h1>
 <h3 align="center">A passionate about Web development, Laravel, VueJs</h3>
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="A beautiful landscape" style="display: block; margin: auto; width: 500px;">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="display: block; margin: auto; width: 500px;">
 
 
 
