@@ -85,19 +85,19 @@ Khulna University of Engineering & Technology (KUET) &nbsp;`2018 – 2022`
 
 #### Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,python,nodejs" height="44"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,python,nodejs,redis,mongodb,graphql" height="44"/>
 </p>
 
-`Laravel` &nbsp;`PHP` &nbsp;`MySQL` &nbsp;`Python` &nbsp;`Node.js` &nbsp;`RESTful APIs` &nbsp;`Eloquent ORM` &nbsp;`Queue Systems`
+`Laravel` &nbsp;`PHP` &nbsp;`MySQL` &nbsp;`Python` &nbsp;`Node.js` &nbsp;`Redis` &nbsp;`MongoDB` &nbsp;`GraphQL` &nbsp;`RESTful APIs` &nbsp;`Eloquent ORM` &nbsp;`Queue Systems`
 
 <br/>
 
 #### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,vuejs,js,ts,html,css,bootstrap,tailwind" height="44"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,js,ts,html,css,bootstrap,tailwind" height="44"/>
 </p>
 
-`React` &nbsp;`Vue.js` &nbsp;`JavaScript` &nbsp;`TypeScript` &nbsp;`Reusable Component Architecture` &nbsp;`SPA`
+`React` &nbsp;`Next.js` &nbsp;`Vue.js` &nbsp;`Angular` &nbsp;`JavaScript` &nbsp;`TypeScript` &nbsp;`Reusable Component Architecture` &nbsp;`SPA` &nbsp;`SSR`
 
 <br/>
 
@@ -106,16 +106,36 @@ Khulna University of Engineering & Technology (KUET) &nbsp;`2018 – 2022`
 <img src="https://skillicons.dev/icons?i=aws" height="44"/>
 </p>
 
-`EC2` &nbsp;`RDS` &nbsp;`Lambda` &nbsp;`S3` &nbsp;`SQS` &nbsp;`SNS` &nbsp;`CloudWatch` &nbsp;`API Gateway` &nbsp;`IAM` &nbsp;`VPC` &nbsp;`Route 53` &nbsp;`CloudFront` &nbsp;`ECS`
+`EC2` &nbsp;`RDS` &nbsp;`Lambda` &nbsp;`S3` &nbsp;`SQS` &nbsp;`SNS` &nbsp;`CloudWatch` &nbsp;`API Gateway` &nbsp;`IAM` &nbsp;`VPC` &nbsp;`Route 53` &nbsp;`CloudFront` &nbsp;`ECS` &nbsp;`CDK` &nbsp;`Terraform` &nbsp;`CI/CD Pipelines`
 
 <br/>
 
-#### DevOps & Tools
+#### DevOps, Infrastructure & Observability
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,postman,firebase,azure" height="44"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,terraform,ansible,prometheus,grafana,digitalocean,git,linux,postman" height="44"/>
 </p>
 
-`Docker` &nbsp;`Git` &nbsp;`Linux` &nbsp;`Postman` &nbsp;`Jira` &nbsp;`CI/CD` &nbsp;`Firebase` &nbsp;`Azure`
+`Docker` &nbsp;`Kubernetes` &nbsp;`Nginx` &nbsp;`GitHub Actions` &nbsp;`Terraform` &nbsp;`Ansible` &nbsp;`Chef` &nbsp;`Prometheus` &nbsp;`Grafana` &nbsp;`DigitalOcean` &nbsp;`CI/CD Pipelines` &nbsp;`AWS CDK`
+
+<br/>
+
+#### Messaging & Event Streaming
+<p>
+<img src="https://skillicons.dev/icons?i=kafka" height="44"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Amazon_SQS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="28"/>
+</p>
+
+`Apache Kafka` &nbsp;`Amazon SQS` &nbsp;`Event-Driven Architecture` &nbsp;`Async Workflows` &nbsp;`Message Queues`
+
+<br/>
+
+#### CMS & Architecture Principles
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" height="44"/>
+</p>
+
+`WordPress` &nbsp;`Clean Code` &nbsp;`SOLID Principles` &nbsp;`DRY` &nbsp;`Design Patterns` &nbsp;`API-First Architecture` &nbsp;`Microservices`
 
 <br/>
 
@@ -183,9 +203,8 @@ Led system design and requirement analysis. Delivered the full-stack platform wi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHAFIN115&show_icons=true&hide_border=true&title_color=24292f&icon_color=0969da&text_color=57606a&bg_color=f6f8fa&count_private=true&include_all_commits=true&hide=prs&custom_title=Stats&cache_seconds=1800" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAFIN115&layout=compact&hide_border=true&title_color=24292f&text_color=57606a&bg_color=f6f8fa&langs_count=8&custom_title=Top+Languages&cache_seconds=1800" height="160"/>
+
+
 
 </div>
 
@@ -197,7 +216,6 @@ Led system design and requirement analysis. Delivered the full-stack platform wi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SHAFIN115&theme=flat&no-frame=true&column=7&margin-w=6&title=Stars,Commits,Repositories,Issues,Followers,PullRequest,Reviews&cache_seconds=1800" width="100%"/>
 
 </div>
 
@@ -377,6 +395,14 @@ Cross-channel post scheduling · Analytics aggregation
 ```
 
 <br/>
+
+---
+
+## Personal Projects
+
+> 12 independently built projects — spanning SaaS tools, AI/ML applications, automation systems, and full-stack web platforms. Each project was scoped, designed, and shipped solo.
+
+
 
 ---
 
