@@ -19,7 +19,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12362769/shafin-junayed)
 [![GitHub](https://img.shields.io/badge/GitHub-SHAFIN115-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SHAFIN115)
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=SHAFIN115&style=flat-square&color=555&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=SHAFIN115&style=flat-square&color=555555&label=Profile+Views" />
 
 </div>
 
