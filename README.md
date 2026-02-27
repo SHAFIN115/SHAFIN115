@@ -183,29 +183,198 @@ Led system design and requirement analysis. Delivered the full-stack platform wi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHAFIN115&show_icons=true&hide_border=true&title_color=24292f&icon_color=0969da&text_color=57606a&bg_color=f6f8fa&count_private=true&include_all_commits=true&hide=prs&custom_title=Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SHAFIN115&show_icons=true&hide_border=true&title_color=24292f&icon_color=0969da&text_color=57606a&bg_color=f6f8fa&count_private=true&include_all_commits=true&hide=prs&custom_title=Stats&cache_seconds=1800" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAFIN115&layout=compact&hide_border=true&title_color=24292f&text_color=57606a&bg_color=f6f8fa&langs_count=8&custom_title=Top+Languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAFIN115&layout=compact&hide_border=true&title_color=24292f&text_color=57606a&bg_color=f6f8fa&langs_count=8&custom_title=Top+Languages&cache_seconds=1800" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAFIN115&hide_border=true&background=f6f8fa&ring=0969da&fire=0969da&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&stroke=f6f8fa" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=SHAFIN115&hide_border=true&background=f6f8fa&ring=0969da&fire=0969da&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&stroke=ebebeb" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SHAFIN115&theme=flat&no-frame=true&column=7&margin-w=6&title=Stars,Commits,Repositories,Issues,Followers,PullRequest,Reviews" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SHAFIN115&theme=flat&no-frame=true&column=7&margin-w=6&title=Stars,Commits,Repositories,Issues,Followers,PullRequest,Reviews&cache_seconds=1800" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAFIN115&bg_color=f6f8fa&color=24292f&line=0969da&point=24292f&hide_border=true&custom_title=Contribution+Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAFIN115&bg_color=f6f8fa&color=24292f&line=0969da&point=24292f&hide_border=true&custom_title=Contribution+Graph&cache_seconds=1800" width="100%"/>
 
 </div>
+
+<br/>
+
+---
+
+## Worldwide API Integrations & Business Partnerships
+
+> I have contracted and integrated globally recognized third-party platforms into production SaaS systems — driving automation, business growth, and client satisfaction across international markets. Clients saw direct revenue and operational improvements from these integrations.
+
+<br/>
+
+#### Social & Messaging Platforms
+
+<table width="100%">
+<tr>
+<td align="center" width="16%">
+
+<img src="https://img.shields.io/badge/Meta_Graph_API-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+
+**Meta Graph API**
+Posts · Insights · Ads automation
+
+</td>
+<td align="center" width="16%">
+
+<img src="https://img.shields.io/badge/Instagram_Graph-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+**Instagram Graph**
+Media · Analytics · Scheduling
+
+</td>
+<td align="center" width="16%">
+
+<img src="https://img.shields.io/badge/LINE_Messaging-00C300?style=for-the-badge&logo=line&logoColor=white"/>
+
+**LINE API**
+Messaging · Notifications · Bots
+
+</td>
+<td align="center" width="16%">
+
+<img src="https://img.shields.io/badge/Yahoo_API-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/>
+
+**Yahoo API**
+Search · Data feeds · Auth
+
+</td>
+<td align="center" width="16%">
+
+<img src="https://img.shields.io/badge/Rakuten_SMS-BF0000?style=for-the-badge&logo=rakuten&logoColor=white"/>
+
+**Rakuten SMS**
+Transactional messaging · Japan market
+
+</td>
+<td align="center" width="16%">
+
+<img src="https://img.shields.io/badge/Twitter_API-000000?style=for-the-badge&logo=x&logoColor=white"/>
+
+**X (Twitter) API**
+Feed · Post management
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### Google Ecosystem
+
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+**Google APIs**
+Core platform integrations
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/Google_My_Business-34A853?style=for-the-badge&logo=googlemybusiness&logoColor=white"/>
+
+**Google My Business**
+Location · Reviews · Listings
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
+**Google Analytics**
+Traffic · Conversion tracking
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white"/>
+
+**Search Console**
+Indexing · SEO signals
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+
+**Google Ads API**
+Campaign · Reporting automation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### SEO & Marketing Intelligence
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white"/>
+
+**SEMrush API**
+Keyword research · Rank tracking · Competitive analysis
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/SEO_Automation-222222?style=for-the-badge&logo=googlesearchconsole&logoColor=white"/>
+
+**SEO Pipeline Automation**
+Article generation · Account-location mapping · Content workflows
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Credit_Management-0052CC?style=for-the-badge&logo=stripe&logoColor=white"/>
+
+**Credit & Billing Systems**
+Usage-based credit tracking · Quota enforcement · Client billing logic
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Multi--Platform_Publishing-FF6B35?style=for-the-badge&logo=buffer&logoColor=white"/>
+
+**Multi-Platform Publishing**
+Cross-channel post scheduling · Analytics aggregation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### What These Integrations Delivered
+
+```
+✦  Contracted directly with globally recognized platforms on behalf of international clients
+✦  Transformed manual business workflows into fully automated, API-driven pipelines
+✦  Reduced client operational overhead significantly — measurable time and cost savings
+✦  Enabled businesses to manage Meta, Instagram, Google, LINE, Yahoo & Rakuten from a single SaaS dashboard
+✦  Supported SEO growth strategies through automated content generation and location-based mapping
+✦  Provided business logic consulting — proposed and shipped features aligned with revenue growth
+✦  Clients reported direct business growth and operational improvements post-integration
+```
 
 <br/>
 
